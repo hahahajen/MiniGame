@@ -1,0 +1,11 @@
+﻿namespace MiniGame
+{
+    internal class Player
+    {
+        public string Name;
+        public string PlayerClass;
+        public int MaxHP;
+        public int Damage;
+        public int Gold;
+    }
+}
