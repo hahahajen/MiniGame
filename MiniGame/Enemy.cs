@@ -2,8 +2,9 @@
 {
     internal class Enemy
     {
-        public String EnemyClass;
+        public string EnemyClass;
         public int Damage;
+        public int HP;
         public int Gold; // Amount of gold rewarded if defeated
     }
 }
